@@ -485,7 +485,7 @@
         "value": ""
       },
       {
-        "component": "select",
+        "component": "text",
         "valueType": "string",
         "name": "urlPath",
         "label": "URL Path",
