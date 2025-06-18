@@ -489,32 +489,7 @@
         "valueType": "string",
         "name": "urlPath",
         "label": "URL Path",
-        "value": "",
-        "options": [
-          {
-            "name": "Phones",
-            "value": "phones"
-          },
-          {
-            "name": "Watches",
-            "value": "watches"
-          },
-          {
-            "name": "Accessories",
-            "value": "accessories"
-          },
-          {
-            "name": "Gift Cards",
-            "value": "gift-cards"
-          },
-          {
-            "name": "Plans",
-            "value": "plans"
-          },
-          {
-            "name": "Streaming",
-            "value": "streaming"
-          }
+        "value": ""
         ]
       }
     ]
